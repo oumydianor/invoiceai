@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312584366498",
+    "project_id": "invoiceai-1d7fe",
+    "storage_bucket": "invoiceai-1d7fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312584366498:android:6ce7af3dc4b343c93aaafb",
+        "android_client_info": {
+          "package_name": "com.fayfacture.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAi4Ij77Z3eh-XiQwBF3wL_8Ua1jGyTY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

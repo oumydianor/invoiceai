@@ -1,0 +1,23 @@
+{
+  "@@locale": "fr",
+  "appName": "FayFacture",
+  "foundationTitle": "Fondation de l’application",
+  "foundationReady": "La structure Flutter est prête.",
+  "firebaseReady": "Firebase est configuré pour cette plateforme.",
+  "firebasePending": "La configuration Firebase de cette plateforme reste à terminer.",
+  "environmentLabel": "Environnement : {environment}",
+  "@environmentLabel": {"placeholders": {"environment": {"type": "String"}}},
+  "login": "Connexion",
+  "register": "Inscription",
+  "phoneAuthentication": "Connexion par téléphone",
+  "otpVerification": "Vérification du code",
+  "forgotPassword": "Mot de passe oublié",
+  "emailVerification": "Vérification de l’adresse e-mail",
+  "home": "Accueil",
+  "profile": "Profil",
+  "pageNotFound": "Page introuvable",
+  "backToStart": "Retour au démarrage",
+  "nextPhaseMessage": "Le comportement de cet écran sera connecté au module d’authentification.",
+  "openPage": "Ouvrir {page}",
+  "@openPage": {"placeholders": {"page": {"type": "String"}}}
+}
